@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\bin\Debug\PROYECTO_FINAL_WF.exe.config
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\bin\Debug\PROYECTO_FINAL_WF.exe
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\bin\Debug\PROYECTO_FINAL_WF.pdb
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\obj\Debug\PROYECTO_FINAL_WF.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\obj\Debug\PROYECTO_FINAL_WF.Form1.resources
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\obj\Debug\PROYECTO_FINAL_WF.Properties.Resources.resources
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\obj\Debug\PROYECTO_FINAL_WF.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\obj\Debug\PROYECTO_FINAL_WF.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\obj\Debug\PROYECTO_FINAL_WF.exe
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\obj\Debug\PROYECTO_FINAL_WF.pdb
+C:\Users\USER\source\repos\PROYECTO_FINAL_WF\obj\Debug\PROYECTO_FINAL_WF.Form2.resources
